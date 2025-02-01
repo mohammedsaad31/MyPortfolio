@@ -1,0 +1,25 @@
+[
+  {
+    "title": "Job Wave",
+    "imageSrc": "projects/project.png",
+    "description": "JobWave is a modern job board platform designed to bridge the gap between job seekers and employers-Frontend Technologys and features like job listings- resume uploads- advanced search-and profile creation-Methods For Job Operations.",
+    "skills": ["React", "Springboot","sql","git","github"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/mohammedsaad31/JobWave"
+  },
+  {
+    "title": "VIBE vault (Spotify Clone)",
+    "imageSrc": "projects/project.png",
+    "description": " A responsive Music Player built with HTML CSS and JavaScript utilizing React for dynamic UI andseamless user experience. Includes key features like music playback playlists and search functionalitys.",
+    "skills": ["React", "Html", "Css", "Js","BootStrap"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/mohammedsaad31/Spotify-clone"
+  },
+  {
+    "title": "Quote Web App",
+    "imageSrc": "projects/project.png",
+    "description": "Quote Web App is a sleek and intuitive platform designed by using web technologies and apis to bring daily inspiration to your fingertips. Explore a curated collection of motivational quotes, save your favorites, and share them effortlessly with friends and family.",  "skills": ["React", "Html", "Css","BootStrap","Js"],
+  
+    "source": "https://github.com/mohammedsaad31/quote-app-using-api"
+  }
+]
